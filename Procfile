@@ -1,1 +1,1 @@
-picklesimulator: node app.js
+picklesimulator: node .
